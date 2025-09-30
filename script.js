@@ -374,8 +374,7 @@ const achievements = [
         image: 'high_places.png',
         guide: {
             intro: 'This achievement requires you to use a Pardon Letter when you have over $5,000 in bounty.',
-            videoId: 'dQw4w9WgXcQ',
-            note: 'Replace the videoId above with the actual YouTube video ID for your guide video.'
+            videoId: 'x_4OUm8BoVw',
         }
     },
     {
@@ -404,6 +403,7 @@ const achievements = [
         image: 'white_bronco.png',
         guide: {
             intro: 'It is recommended to attempt this trophy at the same time as Friends in High Places.',
+            videoId: 'x_4OUm8BoVw',
             steps: [
                 "Firstly, you'll need the Hungarian Half-Bred horse, which can be found in Mexico around the Diez Coronas area. It's very distinctive, and is all grey.",
                 'When you get it, make sure to hitch it, so you actually own it (or buy the deed at a General store).',
